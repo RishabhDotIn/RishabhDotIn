@@ -1,48 +1,35 @@
-<h1 align="center">Rishabh Singh</h1>
+# Rishabh Singh
 
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=bb9af7&center=true&vCenter=true&width=500&lines=Backend+Engineer;System+Architect;API+Developer" alt="Typing SVG" />
-  </a>
-</div>
+Backend engineer. I work on APIs, data models, and the parts that keep two
+clients in sync.
 
-<br/>
+The clearest example is **[PenPaper](https://github.com/RishabhDotIn/PenPaper)**,
+an infinite whiteboard with live rooms, an offline PWA, and Google Drive sync.
+It runs at [penpaper-j09r.onrender.com](https://penpaper-j09r.onrender.com).
 
-<div align="center">
-  <a href="mailto:rishabhsingrajput109@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://www.linkedin.com/in/rishabh-singh-1b08a3348/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://leetcode.com/u/RishabhDotIn/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
-</div>
+## Selected work
 
-<br/>
+| Project | What it does | Stack |
+| --- | --- | --- |
+| [PenPaper](https://github.com/RishabhDotIn/PenPaper) | Infinite whiteboard with shared rooms, offline support, and Drive sync. [Live](https://penpaper-j09r.onrender.com) | TypeScript, Next.js, Postgres, Redis, Kafka, Yjs |
+| [Reyna](https://github.com/RishabhDotIn/Reyna) | Voice assistant that runs on local hardware: speech in, local model, speech out | Python, Ollama, ChromaDB, SQLite, ONNX |
+| [Examiner](https://github.com/RishabhDotIn/examiner) | Computer-based testing platform with a server-synced timer and autosave every 3 seconds | TypeScript, Node.js, Socket.IO |
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RishabhDotIn&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&hide_rank=true" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RishabhDotIn&layout=compact&theme=tokyonight&hide_border=true&langs_count=5" height="150" alt="Top Languages" />
-</div>
+Also built [Gradion](https://github.com/RishabhDotIn/Gradion), an academic
+evaluation suite with teacher and student dashboards, and
+[ytlive](https://github.com/RishabhDotIn/ytlive), a YouTube live chat bot with
+points, leaderboards, and minigames.
 
-<hr/>
+## Stack
 
-<h3 align="center">⚙️ Tech Stack & Tools</h3>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,js,cpp,nodejs,express,mongodb,mysql,sqlite,linux,git,postman" />
-</p>
+<img src="https://skillicons.dev/icons?i=java,python,ts,nodejs,express,postgres,redis,linux,git" alt="Java, Python, TypeScript, Node.js, Express, Postgres, Redis, Linux, Git" />
 
-<hr/>
+## Background
 
-### 🚀 Engineering Profile
-* **Focus:** High-performance server architectures, local AI orchestration, and runtime optimization.
-* **Education:** B.E. in Computer Science & Engineering @ Chitkara University.
-* **Milestones:** Somnium Hackathon Runner-up (Top 2/400+) | SIH Internal Qualifier.
+- B.E. Computer Science and Engineering, Chitkara University
+- Somnium Hackathon, runner-up (top 2 of 400+)
+- Smart India Hackathon, internal qualifier
 
-<br/>
+## Contact
 
-### 🧠 Featured Architecture
-
-**Project Reyna | System Architecture & AI Orchestration**
-* Engineered a multi-threaded framework leveraging local LLM execution (Ollama) and vector memory persistence (ChromaDB, SQLite).
-* Developed structured tool-routing handlers for native OS-level configuration, automated pipelines, and low-latency ONNX voice processing.
-
-**Backend Services | Examiner & Code Playground**
-* Deployed scalable RESTful APIs with token-based authentication (JWT) and real-time bi-directional synchronization (Socket.IO).
-* Managed robust database integration and high-concurrency event handling within a structured Git workflow.
+[Email](mailto:rishabhsingrajput109@gmail.com) | [LinkedIn](https://www.linkedin.com/in/rishabh-singh-1b08a3348/) | [LeetCode](https://leetcode.com/u/RishabhDotIn/)
