@@ -1,7 +1,7 @@
 # Rishabh Singh
 
-Backend engineer. I work on APIs, data models, and the parts that keep two
-clients in sync.
+Full-stack engineer. I work across React interfaces, the APIs and data models
+behind them, and the sync layer that keeps two clients in agreement.
 
 The clearest example is **[PenPaper](https://github.com/RishabhDotIn/PenPaper)**,
 an infinite whiteboard with live rooms, an offline PWA, and Google Drive sync.
@@ -11,9 +11,9 @@ It runs at [penpaper-j09r.onrender.com](https://penpaper-j09r.onrender.com).
 
 | Project | What it does | Stack |
 | --- | --- | --- |
-| [PenPaper](https://github.com/RishabhDotIn/PenPaper) | Infinite whiteboard with shared rooms, offline support, and Drive sync. [Live](https://penpaper-j09r.onrender.com) | TypeScript, Next.js, Postgres, Redis, Kafka, Yjs |
+| [PenPaper](https://github.com/RishabhDotIn/PenPaper) | Infinite whiteboard with shared rooms, offline support, and Drive sync. [Live](https://penpaper-j09r.onrender.com) | Next.js, React, TypeScript, Postgres, Redis, Kafka, Yjs |
 | [Reyna](https://github.com/RishabhDotIn/Reyna) | Voice assistant that runs on local hardware: speech in, local model, speech out | Python, Ollama, ChromaDB, SQLite, ONNX |
-| [Examiner](https://github.com/RishabhDotIn/examiner) | Computer-based testing platform with a server-synced timer and autosave every 3 seconds | TypeScript, Node.js, Socket.IO |
+| [Examiner](https://github.com/RishabhDotIn/examiner) | Computer-based testing platform with a server-synced timer and autosave every 3 seconds | React, TypeScript, Node.js, Socket.IO |
 
 Also built [Gradion](https://github.com/RishabhDotIn/Gradion), an academic
 evaluation suite with teacher and student dashboards, and
@@ -22,7 +22,7 @@ points, leaderboards, and minigames.
 
 ## Stack
 
-<img src="https://skillicons.dev/icons?i=java,python,ts,nodejs,express,postgres,redis,linux,git" alt="Java, Python, TypeScript, Node.js, Express, Postgres, Redis, Linux, Git" />
+<img src="https://skillicons.dev/icons?i=java,python,ts,react,nextjs,nodejs,express,postgres,redis,linux,git" alt="Java, Python, TypeScript, React, Next.js, Node.js, Express, Postgres, Redis, Linux, Git" />
 
 ## Background
 
